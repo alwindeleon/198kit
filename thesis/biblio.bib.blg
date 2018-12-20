@@ -1,0 +1,5 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'biblio.bib.blg'
+[44] biber-darwin:313> INFO - === Sun Dec  9, 2018, 22:34:24
+[210] Utils.pm:209> ERROR - Cannot find control file 'biblio.bib.bcf'! - Did latex run successfully on your .tex file before you ran biber?
+[210] Biber.pm:114> INFO - ERRORS: 1

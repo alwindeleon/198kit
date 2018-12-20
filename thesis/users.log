@@ -1,0 +1,162 @@
+This is TeX, Version 3.14159265 (TeX Live 2018) (preloaded format=tex 2018.4.16)  9 DEC 2018 15:28
+**users.tex
+(./users.tex
+! Undefined control sequence.
+l.11 \documentclass
+                   [letterpaper,12pt]{report}
+? 
+! Undefined control sequence.
+l.12 \usepackage
+                [centertags]{amsmath}
+? 
+! Undefined control sequence.
+l.13 \usepackage
+                {amsfonts}
+? 
+! Undefined control sequence.
+l.14 \usepackage
+                {amssymb}
+? 
+! Undefined control sequence.
+l.15 \usepackage
+                {amsthm}
+? 
+! Undefined control sequence.
+l.16 \usepackage
+                {newlfont}
+? 
+! Undefined control sequence.
+l.17 \usepackage
+                {epsfig}
+? 
+! Undefined control sequence.
+l.18 \usepackage
+                {UPCS198man} %UP Dept. of Computer Science CS198 Style
+? 
+! Undefined control sequence.
+l.19 \usepackage
+                {UPCSINC1}
+? 
+! Undefined control sequence.
+l.20 \usepackage
+                [active]{LTX}
+? 
+! Undefined control sequence.
+l.22 \newlength
+               {\defbaselineskip}
+? 
+! Undefined control sequence.
+l.22 \newlength{\defbaselineskip
+                                }
+? 
+! Undefined control sequence.
+l.23 \setlength
+               {\defbaselineskip}{\baselineskip}
+? 
+! Undefined control sequence.
+l.23 \setlength{\defbaselineskip
+                                }{\baselineskip}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.23 \setlength{\defbaselineskip}{\baselineskip}
+                                                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.23 \setlength{\defbaselineskip}{\baselineskip}
+                                                
+? 
+! Undefined control sequence.
+l.24 \newcommand
+                {\setlinespacing}[1]
+? 
+! Undefined control sequence.
+l.24 \newcommand{\setlinespacing
+                                }[1]
+? 
+! Undefined control sequence.
+l.25            {\setlength
+                           {\baselineskip}{#1 \defbaselineskip}}
+? 
+! Interruption.
+<to be read again> 
+                   {
+l.25            {\setlength{
+                            \baselineskip}{#1 \defbaselineskip}}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.25            {\setlength{\baselineskip}
+                                          {#1 \defbaselineskip}}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.25            {\setlength{\baselineskip}
+                                          {#1 \defbaselineskip}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.25            {\setlength{\baselineskip}{#
+                                            1 \defbaselineskip}}
+? 
+! Undefined control sequence.
+l.25 ...tlength{\baselineskip}{#1 \defbaselineskip
+                                                  }}
+? 
+! Undefined control sequence.
+l.26 \newcommand
+                {\doublespacing}{\setlength{\baselineskip}
+? 
+! Undefined control sequence.
+l.26 \newcommand{\doublespacing
+                               }{\setlength{\baselineskip}
+? 
+! Undefined control sequence.
+l.26 \newcommand{\doublespacing}{\setlength
+                                           {\baselineskip}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.26 ...{\doublespacing}{\setlength{\baselineskip}
+                                                  
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.26 ...{\doublespacing}{\setlength{\baselineskip}
+                                                  
+? 
+! Undefined control sequence.
+l.27 ...                     {2.0 \defbaselineskip
+                                                  }}
+? 
+! Undefined control sequence.
+l.28 \newcommand
+                {\singlespacing}{\setlength{\baselineskip}{\defbaselineskip}}
+? 
+! Undefined control sequence.
+l.28 \newcommand{\singlespacing
+                               }{\setlength{\baselineskip}{\defbaselineskip}}
+? 
+! Undefined control sequence.
+l.28 \newcommand{\singlespacing}{\setlength
+                                           {\baselineskip}{\defbaselineskip}}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.28 ...{\singlespacing}{\setlength{\baselineskip}
+                                                  {\defbaselineskip}}
+? :qa!
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? x
+No pages of output.
